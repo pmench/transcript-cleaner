@@ -1,0 +1,619 @@
+0:00
+hi Eva hey there I welcome vlogging heads thank you so much for having me
+0:06
+yes thank you very much for being here let me introduce us I am Philip menchaca
+0:11
+editor at blogging heads TV and you are Eva galperin director of cyber security
+0:19
+for the Electronic Frontier Foundation that's right and we are going to talk
+0:24
+today about privacy and security generally and specifically talk a little
+0:31
+bit about net neutrality and maybe some state-sponsored malware issues but first
+0:40
+can you just tell me what the e FF does sure FF stands for Electronic Frontier
+0:47
+Foundation we are a digital civil liberties organization that has been around since 1990 and our job is to make
+0:55
+sure that when you go online your rights come with so what are some of the current projects that BFF is engaged in
+1:03
+well the e FF is currently a vast undertaking so there are a lot of us working on different things but one of
+1:10
+the most interest is about their approach is that we have this sort of unique combination of of tools and
+1:17
+skills that we can bring to the table sort of like the Justice League so sometimes the problems that face the
+1:23
+internet that require require a lawyer and then we we file lawsuits we do
+1:31
+what's called impact litigation so we file a lawsuit with the intention of getting a ruling that that will impact
+1:37
+people further down the line this is a lot of the kind of thing that the ACLU does for civil liberties both online and
+1:44
+offline we also have activists for when you need to get people out onto the streets when you need people to sign
+1:50
+petitions when you need people to write letters or call their their senators or congressmen and we also have a bunch of
+1:59
+Engineers and what our engineers do is sometimes they build they build tools
+2:04
+like the Chrome extensions that we run like HTTPS Everywhere and privacy badger
+2:12
+we're all so part of the group that works on cert
+2:17
+bot she's also known as let's encrypt making it really easy for people to get free SSL certificates for their websites
+2:25
+and we also do research into the kinds of problems that people and especially
+2:31
+vulnerable populations have so we have a we have a website called surveillance
+2:37
+self defense which is our privacy and security guide and we go around doing
+2:44
+trainings we also do reports on sort of
+2:51
+dangers to privacy and security online to vulnerable populations including state-sponsored malware which is a
+2:57
+fairly large part of my work and we do sort of policy work around this sort of thing as well so sometimes you have to
+3:03
+go to the hill where you have to go to like the European Court of Human Rights and talk to them about why the Internet
+3:09
+is important and why the kind of rights that you have offline should also be the kind of rights that you have online that
+3:15
+great so you have a whole bunch of tools at your disposal at the AFF involved in
+3:20
+a lot of different things actually use some of the extensions such as privacy
+3:26
+badgering and HTTPS Everywhere which you
+3:31
+know crypts your access to certain to do websites when you browse online so I
+3:37
+recommend people go and check out some of these some of this information and
+3:42
+resources that e FF has so that's what the FF does and to come kick off our
+3:50
+conversation here I want to talk with you about an issue that's been in the news recently again it's sort of a
+3:58
+slow-burning actually I think years long issue now at this point and that is net
+4:04
+neutrality and this is just to kind of set what the controversy is right now
+4:11
+the FCC is looking at repealing some
+4:16
+Obamacare of not Obamacare some rules while it's also Obamacare Obamacare
+4:24
+looking at repealing some rules that were put in place under Obama that
+4:30
+protected net neutrality but just to start off basic can you define what
+4:35
+people mean when they say net neutrality all right so now neutrality is is not a
+4:42
+lot like the law of gravity it's sort of a a principle that that certain that
+4:48
+companies and I that ISPs have abided by
+4:53
+for many years and the idea is that a packet is a packet is a packet and what
+5:01
+the what an ISP does is it moves packets and it treats all of those packets the
+5:07
+same and if you are going to one website you should not be able to get better
+5:12
+bandwidth than if you are going to some other website and the reason why net
+5:18
+neutrality is is so important is because if you have this sort of pay-for-play
+5:24
+system where people can pay for better so for better treatment by ISPs or
+5:30
+preferential treatment by ISPs for their bandwidth then the companies with a lot
+5:36
+of money and with pre-existing relationships with the ISPs or that are owned by the ISPs are at an unfair
+5:44
+advantage and new companies that have new ideas and new services that are
+5:50
+up-and-coming or our startups are at a disadvantage so this would have a tremendously chilling effect on on
+5:59
+startups and anybody who doesn't necessarily have a lot of money from the very beginning so if so these rules were
+6:08
+put in place under Obama to kind of keep an even playing field is that correct
+6:13
+mm-hmm yes so particular companies couldn't pay
+6:19
+say Verizon to boost their speed or or
+6:24
+not throttle the speed of their website
+6:30
+so I guess so the the worry here is that
+6:37
+for instance a a a company like Verizon
+6:42
+or Comcast who is an Internet service provider and provides Internet to people
+6:47
+[Music] could selectively choose which websites
+6:54
+run well on your browser was that accurate and yes absolutely
+7:00
+yeah and for a very long time it for a very long time EFS position on net neutrality could
+7:07
+best be described by teams of like Jesuit priests it was so complicated and
+7:13
+part of the reason for this is because EF f has a lifetime a lifelong aversion
+7:20
+to to regulation we have been touched in a bad place by FCC regulation before and
+7:28
+we don't necessarily want the FCC's sticking their their noses and in our
+7:33
+business because historically this has not been good for leveling the playing field or for for increasing the
+7:42
+competitiveness of startups or anything like that the only reason why EF F
+7:47
+really turned around on this issue and said fine this is actually a situation where the FCC needs to get involved is
+7:55
+because the ISPs themselves stated that it was their intention to do this and we think that this is tremendously bad for
+8:02
+a competition this is tremendously bad for innovation and it's very bad for
+8:07
+users and it's our job to stand up for the users yeah so what can people do about helping preserve net neutrality
+8:17
+well there are a couple of things that you can do but probably the most important is you can write to the FCC
+8:23
+the FCC is currently seeking comment on what people think about they're rolling
+8:29
+back their regulations and you can find a on the e FF website there is a button
+8:36
+on our home page you can press on that will allow you to contact the FCC and
+8:43
+them know what you think along with some suggested language that you absolutely don't have to stick to we have also
+8:49
+taken part in the in a joint letter that was just sent to the FCC written by a
+8:57
+hundred and ninety network engineers talking about why from a from a network
+9:03
+standpoint from a purely technical standpoint net neutrality is really important and gutting it is not a good
+9:09
+idea okay great and there was a big push I think was it last week to try to put
+9:17
+the word out about the FCC accepting comments do you have absolutely you have to know what the outcome of that was I
+9:24
+mean in terms of participation I do know that the participation is very high but
+9:30
+I don't have any exact numbers there there is a long history especially from
+9:35
+the last time that the net neutrality debate came out of the comments crashing
+9:41
+the FCC website largely because while EF
+9:48
+F is able to move a lot of people to action probably the biggest contributor
+9:54
+to this sort of Pro net neutrality speech weirdly has been John Oliver over
+10:00
+on HBO and usually when he has an episode about net neutrality on his show people respond in the kind of numbers
+10:07
+that ESF can only dream of yes I believe he had a he set up a web site go FCC
+10:16
+yourself calm I believe yes that that
+10:22
+would redirect you to the comments section on that on the FCC there's also
+10:30
+been a really interesting trend of a box leaving anti net neutrality comments and
+10:38
+so it's really important to get real people coming to the site and giving their real views in order to balance out
+10:45
+this sort of astroturf thing that anti net neutrality campaigners have
+10:50
+unleashed on the FCC a website that's very interesting so people have created you know automated spamming bots I guess
+10:58
+to leave mmm the comments and uh in support or against net neutrality yeah
+11:05
+it's an incredibly worrisome trend yeah I hadn't heard that before that's the
+11:11
+that's unfortunate so the next thing to kind of switch
+11:18
+gears I know that you're one of your areas of expertise is state-sponsored
+11:24
+malware yes and so I'd like to talk to you about about that a little bit in in
+11:32
+the context of kind of a recent story that as it broken about it seems like
+11:41
+the Mexican government's use of a particular kind of malware called Pegasus it's a spyware and for people
+11:52
+who haven't heard of this would you be able to give a recap of just very broad
+11:58
+overview of kind of what what's happened here all right well let's just start with what's
+12:05
+state-sponsored spyware is right so I'm imagine that most of the people in your audience are familiar with
+12:11
+spyware but you can it can covertly load a program onto somebody's device which
+12:17
+could be if you know their computer or their tablet or their phone that gives you full control over that device this
+12:23
+allows you to see their and log their keystrokes take screenshots make use of
+12:29
+their microphone make use of your of the camera if you have full control over
+12:34
+somebody's phone that's tremendously powerful because you also get their their GPS location at all times it's
+12:40
+essentially like putting a tracking device in somebody's pocket you can also spy on all of their phone calls it's
+12:46
+tremendously invasive now spyware is
+12:52
+pretty ubiquitous lis available I it is possible to buy spyware for you know 40
+12:58
+or 50 euro online that that has much of the same functionality is the stuff the
+13:05
+government's buy but when governments decide that they want to purchase and deploy spyware generally
+13:13
+they don't show up and deploy a 50 euro
+13:20
+copy of je rat what they do is they either build the software themselves and
+13:30
+this is particularly common in in the five eyes countries I don't know if your
+13:35
+audience is familiar with who would qualify as five eyes but that would be America Canada the UK New Zealand and
+13:45
+Australia who all have a very close sort of surveillance community relationship
+13:52
+because everybody speaks English you also see this in Russia in China
+13:57
+increasingly you see it in places like North Korea and Vietnam so these guys
+14:03
+roll their own they they have armies of trained professionals who build the spyware specifically so that it is very
+14:10
+difficult for antivirus companies to find it but companies are sorry
+14:17
+countries that don't have this kind of money to pay tons of engineers to build
+14:25
+them the custom software all the time sometimes go to third-party vendors and
+14:30
+these vendors include companies like finfisher which is located I believe in
+14:37
+the UK and Germany Italian companies like a hacking team and also this the
+14:47
+this company dark matter in the UAE and a company called NSO group in in Israel
+14:56
+so NSO group sold their their software
+15:02
+to a number of different nation-states and they insist that that they only sell
+15:07
+to nation-states and they tell the they tell the countries we're going to sell you this incredibly powerful and an
+15:15
+intrusive software on the condition that you only it against bad guys and terrorists they
+15:25
+have no way of knowing that this is going to happen but that's that's what they say they do
+15:32
+so they went ahead they sold the software to to Mexico and it turns out
+15:37
+that the various members of the Mexican government used it to spy on activists
+15:47
+and scientists who were working on we're working to support a soda tax definitely
+15:56
+not not terrorism not terrorism I and most most recently they discovered that
+16:04
+among other things they were also spying on like the the children and the lawyers and all kinds of other people who are
+16:10
+related to this particular situation and furthermore they discovered that that
+16:17
+someone in the Mexican government was also using this to spy on a panel that
+16:22
+was that was convened to to look into the disappearance of 40 students in
+16:30
+Mexico a couple years ago the disappearance of the students was a very big deal it was a very large
+16:36
+political issue people went out onto the streets and they protested and masked for months on end demanding that the
+16:44
+government figure out what happened to these students and it became this sort of symbol for how little control the
+16:52
+federal government has over you know sort of day to day life in Mexico and
+16:58
+how little control they have over over the cartels so this independent panel
+17:05
+was brought in to investigate and it turns out the Mexican government was spying on them using NSA groups
+17:12
+Pegasus software so again not terrorists what's
+17:18
+particularly interesting about this was again the NSO group said but we but we insist you only sell oh we only sell to
+17:25
+governments who tell us that they're going to use this to spy on just by on terrorists how can we possibly know that
+17:30
+they might misuse this it's like well maybe you might want to have wanted to read citizen labs report
+17:36
+from six months ago or citizen labs report from eight months ago or if you don't read citizen lab reports perhaps
+17:42
+the New York Times it might it's come up one search twice but you keep selling to
+17:48
+these guys and this is also true of some of the other really shady companies that
+17:56
+have have engaged at this kind of sale right so it's all very bad so this is
+18:01
+this is very very troubling very powerful software that repressive regimes or just corrupt regimes can use
+18:09
+to gather information on journalists and
+18:15
+in citizens and activists having a really you know repressive effect on
+18:21
+citizens so are there are there any kinds of export controls that countries
+18:27
+have on this kind of technology well a couple of years ago I would say like
+18:33
+back in 2013 when we started looking into this stuff and writing reports many
+18:39
+of the European countries stepped up and said really what we need to do is we
+18:47
+need to stop these Western countries from selling this software to
+18:53
+authoritarian States and the way that we're going to do this is through export controls and specifically through a
+18:58
+thing that's known as the vast in our arrangement which is it's not a treaty it's not legally binding but I think
+19:07
+like 49 countries they're signatories to it and this is the arrangement by which people by which countries agree to limit
+19:15
+the sale of weapons so actual physical
+19:21
+weapons things like land mines and guns and tanks and the things that could be
+19:28
+used to make landmines and guns and tanks and then they expanded the
+19:33
+language in the Boston our arrangement to include a sort of surveillance software
+19:38
+unfortunately the language was expanded in such a way that it could be used to
+19:47
+sort of chill the kind of exactly the kind of research that unveiled these
+19:52
+kinds of abuses in the first place which i think is extremely alarming they would
+19:58
+make it this language could be used to make it much more difficult for me to do my job if I'm collaborating with people
+20:04
+who are outside of the United States which I frequently do furthermore the
+20:10
+kind of software that is used in the building of of surveillance not where or the analysis of surveillance now where
+20:16
+is the kind of software that gets used in all kinds of other things and so this
+20:23
+language is extremely problematic I don't think that the boss in our
+20:28
+arrangement or the export controls have to this date ever been used against
+20:33
+surveillance researchers but one of the things that uff is extremely wary of is
+20:40
+just leaving tools out there that could be used against surveillance researchers
+20:45
+one day saying oh surely no one will misuse this stuff it's going to be fine
+20:52
+so we're extremely skeptical about this sort of thing and in the meantime there
+20:57
+is not a lot of evidence that the vasana arrangement has actually stopped
+21:02
+companies from selling this kind of software to company to countries that
+21:08
+then turn around and and misuse it and you can see that in the UAE and you can
+21:13
+see it in in Mexico and more importantly you can see it from a couple of years
+21:19
+ago when a hacker who goes by the name of phidias Fisher dumped the mails full
+21:25
+of one of these sort of bad actor companies called hacking team you can actually see their discussion of this
+21:32
+new language and the boss in our arrangement and they just go it doesn't stop them one bit it doesn't prevent a
+21:38
+single sale it didn't even like constitute a bump in the road for them
+21:44
+so this language doesn't work and it could potentially be used for a lot of bad things which leaves us with the
+21:51
+question of so what do we do you know so
+21:56
+we're not going to solve this problem by using export controls at export trolls are only seeming to to make
+22:03
+potentially matters worse for people like me so how do we stop this there are
+22:10
+a couple of different ways one of the things that uff has done is we've caught
+22:16
+we've we've caught government spying on people inside of the United States we
+22:22
+had this case called Kidani versus Ethiopia in which it turns out that the
+22:27
+Ethiopian government had installed surveillance malware on on the computer
+22:33
+of a guy living in Silver Springs Maryland we know that they spied on his
+22:38
+Google searches and on his on his Skype calls and this is a violation of the
+22:44
+wiretapping statute I in in Maryland so we went ahead and we sued unfortunately
+22:51
+this was not a case that we won we actually got a really disappointing ruling where the judge refused to really
+22:59
+work with the substantive issue like he wouldn't even get into this whole idea that if foreign government wants to spy
+23:07
+on Americans in America they need to follow the law here they need to get a
+23:12
+warrant they need to get an M lat they have to they they have to play by the rules and what courts are really scared
+23:20
+of is that this will limit American ability to spy on people abroad which is
+23:25
+to say that other governments will say hey you need to follow the law when you want to spy on people in our country we
+23:31
+hear it yeah that they're tremendous fans of the rule of law and we think that would be a fine idea
+23:36
+I think Kidani versus Ethiopia will not be our last case in the matter I'm still
+23:42
+alone we've got we've got a few tricks left up ourselves one thing I'm curious about actually is how you think the law
+23:49
+has responded to some of these you know new questions brought by technology the
+23:56
+law is an inner court system they move slowly home sometimes and they're not
+24:06
+necessarily the most adaptable institution I think
+24:12
+do you think that's I mean number one do you think that's a fair assessment and number two are you seeing that play out
+24:18
+in litigation that EF f is has been involved in oh that's the third there
+24:25
+are basically two reasons why the FF does impact litigation one one of the reasons is that sometimes the law moves
+24:31
+lags too far behind technology and then you end up with these like really really
+24:38
+awful unforeseen impacts the other is that sometimes the law is made by people who don't understand the technology and
+24:44
+that's why we have a whole staff of technologists whose job it is to go to people on the hill and and explain the
+24:51
+technology to them so that they don't make bad law in the first place or so that we're able to strike down bad law
+24:56
+now my personal favorite is when we can stop bad law before it happens a better
+25:02
+feeling so yeah I think you've really you've really got two problems there and they're they're both things that uff
+25:08
+works on the domestic front I'm I'm
+25:14
+personally alarmed by the idea of government surveillance tools in the
+25:20
+hands of the Trump administration and so my question is you know is that is that
+25:26
+fear justified are we it has the
+25:32
+administration taking in any particular actions with regard to surveillance or privacy in the past six months that are
+25:39
+particularly concerning well to begin with EF F has been suing the US
+25:49
+government over or actually we've been suing either the ISPs or the US
+25:54
+government over there over the NSA's warrantless surveillance since 2006 we
+26:02
+didn't like it when bush was doing it we didn't like it when Obama was doing it and we don't like it when Trump is doing
+26:08
+it I think that regardless of who is in power you know warrantless wiretapping and
+26:14
+mass surveillance is not a good idea and we oppose it absolutely no matter
+26:21
+who is in charge I don't think that I've seen a lot of evidence that the Trump is noticeably worse than
+26:28
+Obama on this but Obama was pretty bad I think that there's there's a lot of
+26:35
+assumption that because AFF is viewed as a sort of left-leaning organization that
+26:41
+we automatically have just this love of the Obama administration but we we fight
+26:47
+for the users and we fight for civil liberties we are on the side of civil liberties and if you are on the wrong
+26:52
+side we will come for you and so we spent a lot of time criticizing the Obama administration for their lack of
+26:58
+transparency all while billing themselves the most transparent administration ever and we
+27:06
+have exactly the same criticisms of the Trump administration right and things
+27:11
+like you know the surveillance act looks seven of two that's not gone away and
+27:20
+it's not a you know it's possibly well 702 702 until sunset right into some
+27:26
+every time to come yes so every time 702 comes up for sunset we we show up on the
+27:32
+hill we we try to get our vase to come out and explain that it's extremely
+27:38
+important that we sunset 702 and having this sort of surveillance state forever forever a Amen is not a good idea and
+27:46
+does not benefit civil liberties no in fact it doesn't even make us safer yeah
+27:52
+I mean I agree with you on that one um what what would you some people would say in response to this well you know if
+27:59
+people if you're not doing something wrong if you're not committing a crime then you don't have anything to worry
+28:05
+about what would your response be to that well there are a lot of different
+28:12
+responses to this there are a lot of ways that you can take it but I think the most important thing to keep in mind
+28:17
+is that in the end everybody has something to hide there is a reason why
+28:23
+we lock our doors while why we close our curtains privacy is one of the most
+28:28
+fundamental basic rights that you have as an American and it is also a
+28:33
+fundamental human right the government does not have the right to come into your home
+28:39
+without a warrant and look through your stuff and we think that this also applies to the digital realm especially
+28:45
+when the the information available about you when somebody searches the digital
+28:51
+realm is so detailed and so incredibly personal and so that really speaks to
+28:56
+the to the core of our mission furthermore even if you feel like you don't have anything to hide maybe you
+29:03
+know you all your doors are unlocked and maybe you don't wear pants and maybe
+29:09
+you're just like living life all out there in the open not everyone is in a
+29:14
+position to do that the the world is is full of people who who have things to
+29:20
+hide who are not up to no good i if you are for example a a woman on the
+29:29
+internet with opinions let me tell you you have things to hide because people will come after you and harass you the
+29:36
+same thing is true of of Muslims and people of color it's true of people with
+29:41
+unpopular political opinions it's people it's true of people with unpopular religious beliefs and so even if you
+29:47
+feel like you don't have something to hide it's really important to protect this right for these other people I mean
+29:53
+for one thing somewhere down the line you could become one of them right then
+29:59
+you would regret that potential stance that you had in the past once it begins detecting you that's one day they're
+30:06
+gonna come for you so what are some things that people can do to secure their own privacy online well
+30:14
+specifically the FF has a website that we have devoted entirely to security and
+30:20
+privacy advice and it's called surveillance self-defense you can get there at SSD e FF dot org probably the
+30:28
+the most common things that I suggest to people are update your software please
+30:33
+PLEASE Lea's update your software use a password manager so that you have long
+30:39
+strong and unique passwords for all of you are for all of your accounts turn on
+30:46
+to FA for accounts where two FA is available to FA through an
+30:52
+location like of--they or google authenticator is better than 2f a through SMS which is not always the best
+30:59
+thing but for many people to FA through SMS is better than nothing
+31:06
+when websites have you enter a separate code in addition to your password in
+31:12
+order to lock them when you enter when you enter a website by just giving your
+31:18
+username and login what you're giving them is a one factor of authentication and so 2fa stands for two-factor
+31:26
+authentication and that second factor is a special one-time code that you are sent in order to log into your website
+31:33
+and what this means is that if somebody steals or copies or somehow intercepts
+31:39
+your password and they try to log in with it without that second code they're still not getting it and that is
+31:46
+fantastic protection that I think everybody should have yeah in other particular behaviors that people should
+31:53
+be aware of when they're online or you know things they should do or not do when they're browsing you know Facebook
+32:00
+or wherever well I think everybody really has a different appetite for risk
+32:06
+some people look at a roller coaster and they go there's no way I'm getting on that and some people look at a roller
+32:12
+coaster and they go this is a great time I would like to spend all day riding roller coasters and the Internet is
+32:18
+really much the same one of the things that I really would recommend is taking
+32:24
+a look at your sort of social media profiles and seeing what can be gleaned
+32:31
+about you by a stranger so log out of Facebook and take a look at your Facebook profile and see whether
+32:38
+or not you're giving away any information about yourself that you would really rather people did not know
+32:43
+and the same thing is true for you know snapchat and Instagram and Twitter just
+32:49
+get an idea of what what a stranger can see about you and put together and
+32:55
+that's usually sort of the the very beginning of a risk assessment what you
+33:01
+do from there is really going to depend on your appetite for risk well great yeah I think we will leave it
+33:08
+there I do encourage everyone to check out the work that e FF is doing you know
+33:14
+I think it's very important and thank you so much for for coming I'm blocking
+33:20
+heads all right thank you thank you
+
+1:16:26
+NOW PLAYING
+
+Section N
