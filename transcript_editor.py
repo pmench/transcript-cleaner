@@ -1,4 +1,4 @@
-import secrets
+import key
 import openai
 from nltk import word_tokenize
 from tqdm import tqdm
@@ -13,7 +13,7 @@ returns text corrected by the selected OpenAI model.
 https://platform.openai.com/docs/introduction
 """
 
-openai.api_key = secrets.open_ai_key
+openai.api_key = key.open_ai_key
 
 
 def read_txt(filepath, encoding='utf-8', strip=True):
