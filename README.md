@@ -23,8 +23,8 @@ The OpenAI API upon which this tool depends requires a user account and the use 
 After adding your API key to the script and ensuring that the required libraries are installed, this tool can be run in a development environment or from the command line. To launch the tool from the command line, open Terminal and navigate to the directory containing the `transcript_editor.py` file.
 
 Typing the command `python3 transcript_editor.py` will start the script. It will allow you to specify the filepath of your transcript and the filepath to save the corrected transcript. For example:
-- **Source transcript path**: /Users/philip/Documents/umich/courses/winter_2023/SI568/final_project/menchaca-galperin.txt
-- **Edited transcript path**: /Users/philip/Documents/umich/courses/winter_2023/SI568/final_project/menchaca-galperin-corrected.txt
+- **Source transcript path**: /Users/path/to/file/menchaca-galperin.txt
+- **Edited transcript path**: /Users/path/to/file/menchaca-galperin-corrected.txt
 
 ![terminal window showing tool launch](ss.transcript_editor.png)
 
